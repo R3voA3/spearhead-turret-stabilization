@@ -11,3 +11,5 @@ class CfgPatches
         weapons[] = {};
     };
 };
+
+#include "CfgVehicles.hpp"
