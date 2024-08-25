@@ -1,0 +1,12 @@
+// action = "http://steamcommunity.com/sharedfiles/filedetails/?id=623475643";
+actionName = "Workshop";
+author = "R3vo";
+hideName = 0;
+hidePicture = 0;
+// logo = "x\enh\addons\main\data\logo_ca.paa";
+// logoOver = "x\enh\addons\main\data\logoOver_ca.paa";
+// logoSmall = "x\enh\addons\main\data\logoSmall_ca.paa";
+name = "Spearhead Turret Stabilization v0.0.0";
+overview = "Adds turret stabilization to Spearhead 1944 vehicles";
+// picture = "x\enh\addons\main\data\picture_ca.paa";
+tooltipOwned = "Adds turret stabilization to Spearhead 1944 vehicles.";

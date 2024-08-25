@@ -1,0 +1,38 @@
+name = "Spearhead Turret Stabilization"
+author = "R3vo"
+prefix = "x"
+mainprefix = "sts"
+
+[version]
+
+major = 1 # Overrides path when set
+minor = 0
+patch = 0
+
+# Launched with `hemtt launch`
+[hemtt.launch.default]
+
+workshop = [
+    "450814997",   # CBA_A3
+    "1751569185",  # Pythia
+    "1387934106",  # 7erra's Editing Extensions
+    "2073243184",  # 3Den Stringtable Viewer
+    "623475643",   # 3den Enhanced
+    "2369477168"   # Advanced Developer Tools
+]
+
+dlc = [
+    "Spearhead 1944",
+]
+
+mission = "spearhead-turret-stabilization.VR" # Mission to launch directly into the editor with
+
+# parameters = [
+#     "-skipIntro",           # These parameters are passed to the Arma 3 executable
+#     "-noSplash",            # They do not need to be added to your list
+#     "-showScriptErrors",    # You can add additional parameters here
+#     "-debug",
+#     "-filePatching",
+# ]
+
+executable = "arma3" # Default: "arma3_x64"
