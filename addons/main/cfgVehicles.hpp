@@ -15,7 +15,7 @@ class CfgVehicles
             class MainTurret: MainTurret
             {
                 stabilizedInAxes = 3;
-            };a
+            };
         };
     };
 };
